@@ -7,3 +7,6 @@
   Other text... to create a new git commit
 
   Why isn't this saying modified..?
+
+<!-- My 3rd Commit -->
+  Aha, so the 'master' word has been changed to 'main' in the push command...!
