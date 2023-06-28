@@ -20,3 +20,4 @@ Just making some more changes to do another commit.
 blah blah blah..
 
 1. Open index.html in your browser
+2. Have fun.
